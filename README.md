@@ -1,2 +1,2 @@
 # KaggleCDiscountChallenge-
-Kaggle CDiscount Challenge 
+Kaggle cdiscount Challenge 
