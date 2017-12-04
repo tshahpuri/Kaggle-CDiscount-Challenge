@@ -1,2 +1,2 @@
-# KaggleCDiscountChallenge-
-Kaggle cdiscount Challenge 
+# Kaggle cdiscount image classification challenge-
+Kaggle cdiscount challenge 
