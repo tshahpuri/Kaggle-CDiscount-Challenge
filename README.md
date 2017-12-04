@@ -1,2 +1,4 @@
 # Kaggle cdiscount image classification challenge
-Kaggle cdiscount challenge 
+CDiscountKeras
+
+Tweaked version of Inception V3 in PyTorch
