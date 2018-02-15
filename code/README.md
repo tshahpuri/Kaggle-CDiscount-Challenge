@@ -13,8 +13,3 @@ My code for Cdiscount's Image Classification Challenge. Tested on a subset of 10
 
 ---
 
-## Usage
-1) In `params.py` set `base_dir` to your working directory. You can also set the model to use and training parameters.
-2) Place *train.bson* and *test.bson* in *{work_dir}/input*.
-3) Run `read_data_train.py` and `read_data_test.py` to read and unpack train data and test data respectively.
-4) Run `train.py` to train the model and `test_submit.py` to predict on test data and generate submission file.
